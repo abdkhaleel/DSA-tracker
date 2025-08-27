@@ -227,14 +227,17 @@ Version control: Keep multiple progress snapshots
 
 ### Main Interface
 ![Main Interface](screenshots/main-interface.png)
+
 *Interactive tracker with priority-based sorting and real-time filtering*
 
 ### Progress Statistics
 ![Progress Stats](screenshots/progress-stats.png)
+
 *Real-time completion tracking and progress visualization*
 
 ### Export Features
 ![Export Options](screenshots/export-features.png)
+
 *Save progress and export to Excel for external use*
 
 ## 🎯 Study Strategy
