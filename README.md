@@ -331,8 +331,7 @@ copies or substantial portions of the Software.
 
 - 📖 **Documentation**: Check this README and code comments
 - 🐛 **Bug Reports**: [Create an issue](https://github.com/abdkhaleel/DSA-tracker/issues)
-- 💡 **Feature Requests**: [Open a discussion](https://github.com/abdkhaleel/DSA-tracker/discussions)
-- 📧 **Direct Contact**: [Email me](mailto:your-email@example.com)
+- 📧 **Direct Contact**: [Email me](mailto:abdkhaleel16@gmail.com)
 
 ### Community
 
