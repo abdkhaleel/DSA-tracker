@@ -355,15 +355,6 @@ copies or substantial portions of the Software.
 
 > *"Finally, a structured approach to DSA learning. No more random problem solving!"* - GitHub User
 
-## 🚀 Future Roadmap
-
-- [ ] **Mobile App**: React Native version
-- [ ] **Problem Links**: Direct integration with LeetCode/HackerRank
-- [ ] **Study Plans**: Predefined learning schedules
-- [ ] **Analytics**: Detailed progress insights
-- [ ] **Community**: Share and compare progress
-- [ ] **AI Recommendations**: Personalized pattern suggestions
-
 ---
 
 <div align="center">
